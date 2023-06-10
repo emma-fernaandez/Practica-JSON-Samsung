@@ -1,0 +1,176 @@
+{
+    "supermercado1": [
+        {
+            "nombre": "Mercadona",
+            "direción": "Av. Literato Azorín, 11, 30510 Yecla, Murcia",
+            "geolocalización": [
+                "38°61'40.2N",
+                "1°10'80.4E"
+            ],
+            "ofertas": [
+                {
+                    "nombre": "Tomate",
+                    "oferta": true,
+                    "tipoDeOferta": "2 por 1",
+                    "periodoVigencia": "30/06/23",
+                    "unidades": 5,
+                    "precio": 1,
+                    "unidadMedida": "kg",
+                    "pAdquirido": true,
+                    "pHabitual": true
+                },
+                {
+                    "nombre": "Queso",
+                    "oferta": true,
+                    "tipoDeOferta": "50% de descuento",
+                    "periodoVigencia": "15/06/23",
+                    "unidades": 1,
+                    "precio": 3,
+                    "unidadMedida": "kg",
+                    "pAdquirido": false,
+                    "pHabitual": true
+                }
+            ],
+            "sinOfertas": [
+                {
+                    "nombre": "Aceite",
+                    "oferta": false,
+                    "tipoDeOferta": null,
+                    "periodoVigencia": null,
+                    "unidades": 1,
+                    "precio": 8,
+                    "unidadMedida": "l",
+                    "pAdquirido": true,
+                    "pHabitual": true
+                },
+                {
+                    "nombre": "Papel higiénico",
+                    "oferta": false,
+                    "tipoDeOferta": null,
+                    "periodoVigencia": null,
+                    "unidades": 12,
+                    "precio": 2,
+                    "unidadMedida": "kg",
+                    "pAdquirido": true,
+                    "pHabitual": true
+                }
+            ]
+        }
+    ],
+    "supermercado2" : [
+        {
+            "nombre": "Dia",
+            "direción": "v",
+            "geolocalización":[
+                "43°24'32.1N",
+                "4°10'40.2E"
+            ],
+            "ofertas": [
+                {
+                    "nombre": "Mango",
+                    "oferta": true,
+                    "tipoDeOferta": "2kg al precio de 1kg",
+                    "periodoVigencia": "1/07/23",
+                    "unidades": 5,
+                    "precio": 3.5,
+                    "unidadMedida": "kg",
+                    "pAdquirido": false,
+                    "pHabitual": false
+                },
+                {
+                    "nombre": "Leche desnatada",
+                    "oferta": true,
+                    "tipoDeOferta": "20% descuento del pack",
+                    "periodoVigencia": "15/06/23",
+                    "unidades": 6,
+                    "precio": 1.1,
+                    "unidadMedida": "l",
+                    "pAdquirido": true,
+                    "pHabitual": true
+                }
+            ],
+            "sinOfertas": [
+                {
+                    "nombre": "Mantequilla",
+                    "oferta": false,
+                    "tipoDeOferta": null,
+                    "periodoVigencia": null,
+                    "unidades": 1,
+                    "precio": 2.5,
+                    "unidadMedida": "g",
+                    "pAdquirido": true,
+                    "pHabitual": false
+                },
+                {
+                    "nombre": "Detergente",
+                    "oferta": false,
+                    "tipoDeOferta": null,
+                    "periodoVigencia": null,
+                    "unidades": 1,
+                    "precio": 3.6,
+                    "unidadMedida": "l",
+                    "pAdquirido": false,
+                    "pHabitual": false
+                }
+            ]
+        }
+    ],
+    "supermercado3" : [
+        {
+            "nombre": "Costo",
+            "direción": "v",
+            "geolocalización":[
+                "22°12'60.2N",
+                "46°20'81.5E"
+            ],
+            "ofertas": [
+                {
+                    "nombre": "Platano",
+                    "oferta": true,
+                    "tipoDeOferta": "Kg a mitad de precio",
+                    "periodoVigencia": "30/06/23",
+                    "unidades": 6,
+                    "precio": 0.7,
+                    "unidadMedida": "kg",
+                    "pAdquirido": true,
+                    "pHabitual": true
+                },
+                {
+                    "nombre": "Lata de atun",
+                    "oferta": true,
+                    "tipoDeOferta": "2 latas gratis con el pack",
+                    "periodoVigencia": "15/06/23",
+                    "unidades": 12,
+                    "precio": 4.2,
+                    "unidadMedida": "g",
+                    "pAdquirido": false,
+                    "pHabitual": true
+                }
+            ],
+            "sinOfertas": [
+                {
+                    "nombre": "Tomate frito",
+                    "oferta": false,
+                    "tipoDeOferta": null,
+                    "periodoVigencia": null,
+                    "unidades": 3,
+                    "precio": 1.5,
+                    "unidadMedida": "l",
+                    "pAdquirido": false,
+                    "pHabitual": false
+                },
+                {
+                    "nombre": "Helado",
+                    "oferta": false,
+                    "tipoDeOferta": null,
+                    "periodoVigencia": null,
+                    "unidades": 1,
+                    "precio": 2.6,
+                    "unidadMedida": "g",
+                    "pAdquirido": true,
+                    "pHabitual": false
+                }
+            ]
+        }
+    ]
+}
